@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anirban Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<h4 align="center">Full stack</h4>
 
 <br clear="both">
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  />
+  <img height="350" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  />
 </div>
 
 
